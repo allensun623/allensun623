@@ -39,9 +39,6 @@
   📫 &emsp; Reach out via <a href="mailto:allensun623@gmail.com">email</a> to discuss tech or collaboration opportunities!<br/><br/>
 </p>
 
-<br/>
-<br/>
-<br/>
 
 # 🏝️ About my world
 [![Product Name Screen Shot][product-welcome]](https://allensunworld.com)
