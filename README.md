@@ -19,7 +19,7 @@
 
 <p align="center">
  <a href="https://allensunworld.com" target="_blank">
-    <img src="https://img.shields.io/badge/孫_MY_Website-f4aa24?style=for-the-badge" alt="allensunworld"/>
+    <img src="https://tinyurl.com/allensunworldbadge" alt="allensunworld"/>
  </a>
  &emsp;
  <a href="https://linkedin.com/in/allensun623" target="_blank">
