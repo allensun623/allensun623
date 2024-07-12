@@ -32,7 +32,7 @@
  # 🧐 About me
  
 <p>
- <img align="right" height="200" width='auto' src="/public/assets/gif/hello.gif" alt="Hello gif" />
+ <img align="right" height="200" width='auto' src="hello.gif" alt="Hello gif" />
   🚀 &emsp; Passionate about exploring new technologies and trends. <br/><br/>
   🎨 &emsp; Enthusiast for creating intuitive UI/UX<br/><br/>
   🏞️ &emsp; When not coding, I'm hiking and exploring nature.<br/><br/>
